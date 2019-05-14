@@ -341,7 +341,7 @@ h3.menu-item-title {
   }
 
   #menu-tile, #specials-tile {
-  	width: 360px;
+/*     width: 360px; */
   	margin-right: auto;
   	margin-left: auto;
   }
